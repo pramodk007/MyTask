@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTask</string>
+    <string name="descOne">MyTask</string>
+    <string name="descTwo">MyTask</string>
+    <string name="descThree">MyTask</string>
+    <string name="descFour">MyTask</string>
+    <string name="descFive">MyTask</string>
+    <string name="descSix">MyTask</string>
+    <string name="descSeven">MyTask</string>
+    <string name="descEight">MyTask</string>
+    <string name="descNine">MyTask</string>
+</resources>
